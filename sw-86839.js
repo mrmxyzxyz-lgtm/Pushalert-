@@ -1,0 +1,11 @@
+var comm\_url = "https://request.pushalert.co/";
+var default\_title = "";
+var default\_message = "";
+var default\_icon = "https://cdn.pushalert.co/img/pushalert-square-icon.png";
+var default\_url = "https://mrfilmigyani.in";
+var last\_updated = "0";
+var client\_id = 85634;
+var domain\_id = 1;
+var pa\_subdomain = "https://mrfilmigyani834.pushalert.co";
+var appPublicKey = 'BLpd3Fef4Dqylj2HCbkbUUvOR50JKTh0Pfvq2E88yavZ7LFwHpb4axKruPyE+tkKhS9YxlsmLhf4EB68/CNwXC0=';
+importScripts("https://cdn.pushalert.co/sw-external-payload.js?t="+last\_updated);
